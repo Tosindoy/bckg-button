@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding:0px;
+
+}
+#box{
+    border:5px solid black;
+    margin: 10px  auto;
+    padding: 10px;
+    height: 60vh;
+    width: 50%;
+    display: flex;
+    background-color: aqua;
+
+}
+button{
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    color: dodgerblue;
+
+}
